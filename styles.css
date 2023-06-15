@@ -88,7 +88,7 @@ footer {
   text-align: center;
 }
 /* styles.css */
-
+/* 
 nav {
   text-align: end;
 }
@@ -109,7 +109,7 @@ nav ul li a {
   display: flex;
   color: #fff;
   text-decoration: none;
-}
+} */
 
 main p {
   display: flex;
@@ -132,3 +132,4 @@ main img {
 cursor: pointer;
 
 }
+/*  */
